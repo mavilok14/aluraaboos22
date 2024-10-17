@@ -53,7 +53,7 @@ body {
     font-weight: 400;
     text-align: center;
     color: var(--branco);
-    background: url("../img/Lupa.svg") no-repeat;
+    background: url("Lupa.svg") no-repeat;
     background-position: 1em;
 }
 
@@ -178,7 +178,7 @@ body {
 .contato__email::placeholder {
     font-family: var(--fonte-principal);
     color: var(--azul);
-    background: url("../img/Email.svg") no-repeat 0,50%;
+    background: url("Email.svg") no-repeat 0,50%;
     padding-left: 2em;
 }
 
@@ -191,7 +191,7 @@ body {
     width: 24px;
     height: 24px;
     display: inline-block;
-    background-image: url("../img/Menu.svg");
+    background-image: url("Menu.svg");
     background-repeat: no-repeat;
     background-position: center;
 }
